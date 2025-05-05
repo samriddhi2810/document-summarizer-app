@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+nlp_env/
+*.pdf
+assets/poster.png
+lamini-lm/
+.DS_Store
