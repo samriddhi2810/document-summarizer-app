@@ -1,3 +1,13 @@
+# Document Summarizer App
+
+[![GitHub Stars](https://img.shields.io/github/stars/samriddhi2810/document-summarizer-app?style=social)](https://github.com/samriddhi2810/document-summarizer-app/stargazers)
+[![Forks](https://img.shields.io/github/forks/samriddhi2810/document-summarizer-app?style=social)](https://github.com/samriddhi2810/document-summarizer-app/network)
+[![Issues](https://img.shields.io/github/issues/samriddhi2810/document-summarizer-app)](https://github.com/samriddhi2810/document-summarizer-app/issues)
+[![MIT License](https://img.shields.io/github/license/samriddhi2810/document-summarizer-app)](LICENSE)
+
+A PDF summarization web app powered by Transformer-based NLP models (T5), built with Streamlit and HuggingFace Transformers. Easily summarize long academic papers, reports, or documents in seconds.
+
+---
 # 📄 Document Summarizer App
 
 An intelligent PDF summarization app that leverages Transformer-based NLP models to generate concise and structured summaries from lengthy PDF documents.
