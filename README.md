@@ -28,9 +28,6 @@ An intelligent PDF summarization app that leverages Transformer-based NLP models
 
 ---
 
-## 📸 UI Preview
-
-![Poster Overview](assets/poster.png)
 
 ---
 
